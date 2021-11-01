@@ -7,4 +7,4 @@
   <img align="left" alt="Andriy Bohdan" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br/><br/>
 
-![](PreviewGithub.gif)
+![](PreviewGithub.png)
